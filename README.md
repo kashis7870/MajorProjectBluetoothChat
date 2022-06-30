@@ -5,4 +5,6 @@
 
 ### Android Bluetooth Chat App
 
-![sample-image](/images/blue-chat-app.png)
+### Icons
+![sample-image](/images/bluechat_icon-removebg-preview.png)
+![sample-image](/image/logo-largeC.png)
