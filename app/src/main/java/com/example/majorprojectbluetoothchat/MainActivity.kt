@@ -1,5 +1,6 @@
 package com.example.majorprojectbluetoothchat
 
+import android.annotation.SuppressLint
 import android.bluetooth.BluetoothAdapter
 import android.bluetooth.BluetoothDevice
 import android.bluetooth.BluetoothServerSocket
@@ -58,6 +59,7 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
+    @SuppressLint("MissingPermission")
     private fun enableBluetooth() {
         // There's one Bluetooth adapter for the entire system, call getDefaultAdapter to get one
         bluetoothAdapter = BluetoothAdapter.getDefaultAdapter()
