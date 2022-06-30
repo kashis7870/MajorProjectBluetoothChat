@@ -189,7 +189,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         public override fun run() {
-            // Cancel discovery because it otherwise slows down the connection.
+            // Cancel discovery because it slows down.
             bluetoothAdapter?.cancelDiscovery()
 
             mmSocket?.let { socket ->
