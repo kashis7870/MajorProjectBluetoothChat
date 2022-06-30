@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603286778136",
+    "project_id": "major-project-bluetooth-chat",
+    "storage_bucket": "major-project-bluetooth-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603286778136:android:8f918ff04d39550107ae6d",
+        "android_client_info": {
+          "package_name": "com.example.majorprojectbluetoothchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603286778136-8g0l0a9tkuslqb25637q9ls7afvhl29i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNBzECbxRrkfo4c89G-LC34qHbRVb-Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603286778136-8g0l0a9tkuslqb25637q9ls7afvhl29i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
