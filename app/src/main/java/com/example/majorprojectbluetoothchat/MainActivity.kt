@@ -84,7 +84,7 @@ class MainActivity : AppCompatActivity() {
 
         AcceptThread().start()
     }
-
+// function to setupBluetoothClientConnection
     private fun setupBluetoothClientConnection() {
         val pairedDevices: Set<BluetoothDevice>? = bluetoothAdapter?.bondedDevices
         val allPairs: MutableList<String> = pairedDevices?.map { device ->
