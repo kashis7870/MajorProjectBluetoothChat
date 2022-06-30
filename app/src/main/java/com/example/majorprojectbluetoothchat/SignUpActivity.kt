@@ -6,7 +6,7 @@ import android.content.Intent
 import android.widget.Toast
 import com.example.majorprojectbluetoothchat.databinding.ActivitySignUpBinding
 import com.google.firebase.auth.FirebaseAuth
-
+//class for signupActivity
 class SignUpActivity : AppCompatActivity() {
     private lateinit var binding: ActivitySignUpBinding
     private lateinit var firebaseAuth: FirebaseAuth
