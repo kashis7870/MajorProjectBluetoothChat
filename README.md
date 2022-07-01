@@ -7,6 +7,5 @@
 ### Android Bluetooth Chat App
 
 ### Icons
-![sample-image](/image/bluechat_icon-removebg-preview.png | width=100)
-![sample-image](/image/logo-largeC.png  
-=250x250)
+![sample-image](/image/bluechat_icon-removebg-preview.png )
+![sample-image](/image/logo-largeC.png  )
